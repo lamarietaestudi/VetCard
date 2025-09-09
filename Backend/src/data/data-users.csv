@@ -1,0 +1,101 @@
+_id,name,email,password,phoneNumber,address,city,postalCode,role,licenseNumber,specialties
+bd313ce2-ff0f-4031-a9c2-e702d8db471f,David del Montoya,lorenacordoba@ortuno-gual.es,1234567890,+34880 60 83 17,Camino Adrián Belda 18,Murcia,42234,admin,,
+d41d8056-096d-4fa1-9ef3-b9d2c4b3bc7a,Ana Belén Guzman Flor,cruz89@acero-castilla.es,1234567890,+34737966541,Vial de Inés Heras 81,Granada,62331,owner,,
+6c6f8aef-be69-49ad-872f-04d695ce2f25,Olivia Velázquez-Urrutia,tfeijoo@gmail.com,1234567890,+34717347028,Urbanización de Ramona Pou 46,Córdoba,32417,owner,,
+aa5ca5bd-f1dd-4366-b5f8-e227b91516e1,Manuel Peral Vilalta,julio-cesarpintor@pintor.com,1234567890,+34719 06 69 25,Paseo Atilio Sarabia 54 Piso 0 ,Cáceres,13115,owner,,
+b39ec306-07d6-48a3-b032-d389d01b7944,Tomás Suarez-Olivares,figuerasmanu@gordillo.es,1234567890,+34 722 201 996,Paseo Ema Hurtado 21,Baleares,01025,owner,,
+9e55cc9d-6744-433a-a57f-2ab7a57efbf4,Bernardo Adrián Báez Pla,candelascabello@hotmail.com,1234567890,+34 710027223,Rambla de Espiridión Mas 53 Piso 3 ,Huelva,42470,owner,,
+f1a40910-16f5-4995-9339-05d736fa7943,Zacarías Rodriguez Manrique,agapitopuente@gmail.com,1234567890,+34 725 270 345,Alameda de Hugo Pizarro 28 Piso 7 ,León,67964,owner,,
+f71ba539-dd1e-4959-8183-962ca0053282,Santos González Marcos,sanmartinmanuel@gmail.com,1234567890,+34 705 677 241,C. Mario Pozo 7 Piso 0 ,Salamanca,76039,owner,,
+4d3f5cb2-f57e-4195-acde-263add9000fc,Wilfredo Sevillano Sebastián,rosa-mariaescudero@bayon.es,1234567890,+34 711 77 80 79,Urbanización de Américo Elías 3,Granada,72951,owner,,
+e726e4c3-c4a7-46b9-a3b5-444d82e2daf1,Fidela Porcel,hmas@gmail.com,1234567890,+34743 687 291,Camino René Jimenez 921,Badajoz,16628,owner,,
+44052bb6-da5d-4240-bbd6-412ab7b984f3,Ceferino Rosell Valle,bernardo03@yahoo.com,1234567890,+34925 461 434,Glorieta de Clementina Alvarez 9,Girona,35812,owner,,
+f5dbb374-bfdd-475f-a242-6587f2ec9f6c,Noé Tovar,acamacho@barcelo-palacio.com,1234567890,+34 700 422 674,Acceso Teresa Prada 75,Huelva,78155,owner,,
+d8ccd62b-c80a-46cf-9ea0-c0acf5131031,Nydia del Portillo,angeles88@gmail.com,1234567890,+34732 22 67 38,Callejón de Eutimio Castro 29 Apt. 24 ,Teruel,58786,owner,,
+56b24576-4c84-424d-8602-7968af0a9558,Teresita Rosell-Alcalá,salome73@galvez-montenegro.es,1234567890,+34 711 17 51 60,Glorieta de Domitila Chamorro 41,Madrid,25983,owner,,
+167a9e9d-7214-448c-ab6f-07b4c8a64c37,Erasmo Villalobos Navas,ygoni@hotmail.com,1234567890,+34 740 11 34 85,Ronda Dafne Huertas 94,León,37297,owner,,
+4d08d2fb-abf9-4dea-a642-72c4693d629a,Araceli Iglesia Jaume,hanguita@hotmail.com,1234567890,+34 890 573 425,Pasadizo Anita Osorio 9,Madrid,96668,owner,,
+3aadeeb4-1eaf-4f0e-9bbe-bd74f15d72dc,Pelayo Ramis Nadal,calixto24@gmail.com,1234567890,+34 629843239,Rambla de Josué Mena 986 Piso 7 ,Melilla,62740,owner,,
+1d2854ee-9b31-4da2-816a-5a3f1d712493,Ruy Espinosa-Chamorro,donatobayo@hotmail.com,1234567890,+34 716 146 979,Via Damián Pallarès 14 Piso 0 ,Cuenca,22375,owner,,
+59fc07e2-1ae1-48a3-a08f-a65b42eccb22,Consuela Águila Palomar,waragones@gmail.com,1234567890,+34730 796 226,Callejón de Lara Cañellas 87 Puerta 3 ,Palencia,11606,owner,,
+b5c718c5-32e3-4bd7-8b07-60ab9776446c,Pepe Infante Armas,rojasmacaria@gimenez.com,1234567890,+34932 03 69 69,Vial de Edu Lago 13,Huelva,56245,owner,,
+427e30d0-d44e-4203-a4bd-94ee7285a2dc,Febe Tur Amigó,pjurado@yahoo.com,1234567890,+34711 43 42 76,Pasadizo Raúl Alsina 280 Piso 9 ,Cantabria,49033,owner,,
+3400745b-0894-45c6-a162-98451992db87,Antonia Verdejo Mariscal,azahar25@hotmail.com,1234567890,+34 607 416 429,Callejón Seve Salas 41 Apt. 89 ,Burgos,38871,owner,,
+c79816bd-c7dd-4d0b-beb8-0da479e5284c,Albert Arce Sola,guardioladanilo@hotmail.com,1234567890,+34705098038,Cañada de Sergio Pereira 63 Puerta 1 ,Ciudad,92765,owner,,
+6261ece3-2fe6-4896-9154-682333318299,Erasmo Vall Roldan,filomenanaranjo@abascal.com,1234567890,+34 616 954 825,Callejón Graciano Jimenez 12 Piso 2 ,Cáceres,24742,owner,,
+8c80b984-f537-4e8d-a688-ee0e57ed8818,Marco Arrieta Busquets,isalva@boix.com,1234567890,+34 924 86 64 17,Calle de Damián Iglesias 441 Piso 4 ,Badajoz,35093,owner,,
+67dc63d4-6468-4a22-9df9-d17dbe7951ab,Marcial Román Seco,hervasyaiza@alcala.com,1234567890,+34714 655 129,Ronda de Maricruz Correa 75 Apt. 19 ,Baleares,24469,owner,,
+322715e6-ff58-4664-a2ee-cbd4bc49e1a2,Salomé Cobos,jcheca@rivas.org,1234567890,+34 608078455,Cuesta de Albino Valera 83,Las Palmas,53133,owner,,
+e992b149-12c8-43a9-aba4-976897076870,Marisela Baquero Palomo,haydeediez@yahoo.com,1234567890,+34749651163,Via de Teresita Viana 3,Asturias,87809,owner,,
+531eb750-f28b-46d2-8a5b-5f7846074f31,Joan Quintanilla,llopispaca@menendez.com,1234567890,+34683 27 74 88,Rambla Jesusa Cano 61,Segovia,23003,owner,,
+5588dda4-9da1-4c64-a272-a9b8330e5b66,Fabián Abascal Hervia,encarnacioncanete@yahoo.com,1234567890,+34738 76 67 40,Avenida de Teobaldo Vergara 4 Apt. 02 ,Albacete,76781,owner,,
+28b90332-0e18-4266-92b1-33db21c44a92,María Pilar Pou Manso,renecatalan@cozar-morell.org,1234567890,+34733 576 211,Avenida de Fidel Barriga 11,Palencia,22208,owner,,
+61e0073d-f61e-465b-8ae7-2bc08f527215,Jordán Cervera Peña,danilotudela@sole-bolanos.net,1234567890,+34739852750,Vial Pepe Cámara 30,Ciudad,84514,owner,,
+f91f14a1-23ac-4002-8c35-4238022defc4,Bernardita Alcaraz Milla,concha61@yahoo.com,1234567890,+34 732 585 485,Alameda de Cayetana Talavera 480,Zaragoza,20429,owner,,
+d941493e-71fe-42cc-ab96-ec333ddeed18,Azahara Roig Calvo,ramosaureliano@hotmail.com,1234567890,+34744602042,Urbanización Victoriano Aragón 80 Puerta 6 ,Málaga,09878,owner,,
+d177a53a-b976-4504-91b6-d0bcadc87cf4,Ezequiel Ovidio Zorrilla Pascual,macarena35@prat-costa.net,1234567890,+34 715440404,Callejón de Benita Villalba 98 Apt. 79 ,Cáceres,10722,owner,,
+80ea6bd2-4dc8-444f-a5f6-2a4e2c429de2,Angelino Sedano Adadia,kromeu@contreras-calatayud.es,1234567890,+34 736 019 577,Ronda de Florentina Gallo 539 Apt. 07 ,Huelva,89373,owner,,
+9301435e-b1b7-4c4d-a2f6-3cb665dec477,Pancho Montes Chaves,jcasals@andreu-blanca.com,1234567890,+34712560110,Urbanización Ariadna Llobet 750,Ciudad,97502,owner,,
+17e35abc-22a5-4317-8153-a3db25a9e3ec,Severo Noriega Giralt,castanedamatias@sanchez.es,1234567890,+34718 526 373,Alameda Amor Landa 43,Álava,43309,owner,,
+c4c48f27-285d-4a34-b743-252b9d27522e,Nilo Nacho Cadenas Barriga,rufinopou@pallares.net,1234567890,+34721 117 146,Cuesta Magdalena Fabra 9 Piso 6 ,Girona,56816,owner,,
+49d4bf69-88a1-446f-9cee-96f5463b58c4,Elías Guijarro,margargallo@gmail.com,1234567890,+34858 59 67 43,Plaza Pili Villa 98,Salamanca,16408,owner,,
+d858bd4f-3b82-4599-b6bd-611887488b8d,Heraclio Araujo Miguel,alonso23@coronado.com,1234567890,+34622 35 76 16,Paseo de Mario Echeverría 64 Apt. 15 ,Córdoba,43803,owner,,
+c9ba8603-f79c-47ad-af2f-a617c09fe43f,Zaira Tania Bosch Recio,carmina84@sastre.com,1234567890,+34737602624,Pasadizo Jorge Tejada 9,Jaén,90387,owner,,
+d659de52-38eb-404f-a04a-71f5fb62bc8f,Ruy Amor Bonilla,mateogodoy@codina.net,1234567890,+34 707 23 20 24,Glorieta Cristina Carlos 12 Apt. 66 ,Lugo,27839,owner,,
+7d622f0d-f924-4fce-9ae1-20332520f88c,Lupe de Acedo,leivadiego@ariza-sevillano.es,1234567890,+34917563849,Pasadizo de Victorino Buendía 2 Apt. 18 ,Málaga,88966,owner,,
+f2b4828d-f7b9-4693-bd87-929148722250,Bernardo Vera Vallejo,abadsoraya@gmail.com,1234567890,+34742080908,Vial de Santos Ariño 7 Puerta 7 ,Navarra,04236,owner,,
+3ea94148-5e8f-4dfb-98e2-934d3d1fd4a7,Nicodemo Sandoval Vargas,bernardo11@agustin.org,1234567890,+34976330288,Callejón Mariana Lastra 94,Vizcaya,58165,owner,,
+c8c75dc3-acc2-4e0f-ab2f-a391046468e8,Gabino Robles Montalbán,gomezlaura@miralles-huerta.org,1234567890,+34726 40 54 26,Acceso Silvio Teruel 73 Puerta 5 ,Navarra,01218,owner,,
+32063d3b-91fd-4df0-a98a-1d6478418a6d,Beatriz Rivera,lunaarcelia@tomas-pont.es,1234567890,+34741809870,Glorieta de Ximena Río 39,Tarragona,69605,owner,,
+9ae2c2ea-00d2-4986-ace4-8d5044717213,Eugenio Rivero-Garmendia,isabel20@yahoo.com,1234567890,+34990 874 101,Pasaje de Fermín Comas 35,Barcelona,57452,owner,,
+740a242c-b84a-4f09-982d-1adc2a422f25,Sandra Acevedo Cornejo,reynaldoabril@bas.net,1234567890,+34 879 672 801,C. Carlito Gallardo 48 Puerta 5 ,Cuenca,71138,owner,,
+90603ad8-a0a5-412b-a011-d2bf4fa2380d,Elba Guillén Lerma,tania21@gmail.com,1234567890,+34 834 08 58 14,Callejón Amada Anaya 29 Piso 9 ,Soria,23038,owner,,
+b985d266-b339-4735-8151-ea6a9c3c6a97,Macario Gutierrez Solera,hector01@clavero-montana.com,1234567890,+34648150437,Alameda Gustavo Olmo 15,Castellón,69294,owner,,
+571d783f-f315-4457-b4e5-b8055de9047e,Nidia Hervia Torre,garrigamiguel-angel@gmail.com,1234567890,+34 620058297,Calle de Bartolomé Benítez 88 Apt. 56 ,Cáceres,88906,owner,,
+f54dbb52-8af6-48d7-8eb1-22de83634533,Primitivo del Español,aitorgabaldon@rivera.es,1234567890,+34701148218,Alameda de Cruz Pou 645,Santa Cruz de Tenerife,34377,owner,,
+9a4c5372-d0f2-4776-ad84-1b12c5b116b7,Emelina Conesa Sureda,florencia99@hotmail.com,1234567890,+34729 28 55 47,Rambla Galo Milla 97 Piso 0 ,Zaragoza,21677,owner,,
+eb7bff5a-c8ab-4e59-9b18-d6b3166c5765,Ernesto Cañellas Olivera,colomacarlos@yahoo.com,1234567890,+34891671582,Callejón de Calista Izquierdo 61 Puerta 0 ,Córdoba,82475,owner,,
+9b1bde27-c714-4cec-81b5-5524784d32d7,Ricarda Rodríguez Chamorro,jimenezmartin@hotmail.com,1234567890,+34 651 56 83 92,Glorieta Reyes Escrivá 62,Córdoba,13671,owner,,
+fcea511c-02c0-4938-b053-6f408bd2765b,Pablo Córdoba,acunateo@castrillo-navas.net,1234567890,+34742246497,C. Julia Guardia 6 Puerta 2 ,Ceuta,76199,owner,,
+977f4981-fc24-4253-8526-c201c95edb2c,Fausto Flor,boadapedro@montenegro.org,1234567890,+34979 169 345,Paseo Rafa Nieto 4 Piso 5 ,Melilla,41978,owner,,
+29916f2a-80e5-4ef6-ba4a-6dce08d29a8b,Baltasar del Sanz,lope51@sureda.com,1234567890,+34894 572 576,Ronda de Manuela Nicolau 271,Ciudad,19771,owner,,
+cddbd8c5-8ff4-4009-949d-1e5db57788e7,Georgina Delfina Soto Alcalde,tiburcio26@fuente-lucas.es,1234567890,+34 719 50 59 95,Paseo de Carina Benavente 48,Segovia,60762,owner,,
+5c4bb4d5-f3e8-4164-a627-a4e83100dea8,Alonso Amo Abellán,hmateo@miro-bermejo.net,1234567890,+34 717 97 55 47,Urbanización Mamen Aramburu 10 Apt. 74 ,Granada,42550,owner,,
+2ccd95c3-e3b5-4e5b-96b8-9b1873b50561,Esperanza Valencia Abella,carlasantamaria@soria.net,1234567890,+34 728563578,Plaza de Ruth Cid 76,Madrid,42696,owner,,
+829b554a-b795-439c-9014-7eefce16eed9,Pacífica Nuria Orozco Losa,juan-carlossaura@cobo.com,1234567890,+34638515004,Alameda de Olimpia Saura 779 Apt. 59 ,Cantabria,37587,owner,,
+853b3311-a811-47c7-81fa-4943f4a4100d,Reinaldo Cabrero-Castañeda,albertorosa@calvo.es,1234567890,+34748584049,Calle de África Reyes 41,Ciudad,17170,owner,,
+aa2820f2-282a-41df-ae4f-60cbc2901ef4,Armando Vidal Almagro,benitoadora@villegas-prada.com,1234567890,+34746165794,Glorieta Nerea Villena 58 Piso 4 ,Guipúzcoa,93148,owner,,
+628f3955-36da-4930-aaad-beb57231fd01,Montserrat Parejo Expósito,estrella15@hotmail.com,1234567890,+34702 47 00 46,Pasadizo Edgardo Romero 13 Puerta 6 ,Ávila,44987,owner,,
+dd093f88-1323-438a-8cd2-66dc009f7664,Flavia Larrea,pascualapolo@osuna.com,1234567890,+34935205915,Via Lucho Ibarra 65 Apt. 25 ,Santa Cruz de Tenerife,82795,owner,,
+abf7a332-c486-4316-ba8d-335fb4e43faa,Alonso Santamaria Girona,heraclioborrego@bastida.es,1234567890,+34 725 811 444,Cañada Amador Escolano 3 Apt. 34 ,León,47720,owner,,
+5170beda-95cd-472d-b596-66d3ae46c874,Lupe Barroso Prado,atilio02@hotmail.com,1234567890,+34749 01 09 97,Cañada de Celia Fuente 837,Tarragona,00461,owner,,
+dde58b8b-7f37-4bc6-9bd3-894a488a8e47,Samu Barceló Romero,encarnitaalfaro@gmail.com,1234567890,+34 711 23 46 34,Cañada Cruz Riera 85,Zamora,09913,vet,qY638389,Odontología
+07c19444-e6c7-48f3-8bf9-f1eb897362fa,Florencio Nevado Rocha,nilo89@sala-quevedo.com,1234567890,+34745603150,Alameda Fidel Castillo 11 Puerta 9 ,Alicante,36836,vet,Hf091299,Dermatología
+ebfb85e9-58e6-422c-bca2-9941cca695d5,Esther Lupita Cárdenas Otero,gustavo50@yahoo.com,1234567890,+34622960918,Via Víctor Jódar 4 Piso 7 ,Burgos,73018,vet,NT841808,"Odontología, Traumatología"
+d3fa0b91-30b5-41c4-9dc2-7706b17d1a5e,Desiderio Mendizábal Bermúdez,kfolch@gmail.com,1234567890,+34742 88 74 78,Camino Telmo Roca 57,Ciudad,69489,vet,wB238665,Medicina general
+86bb9489-4c12-484c-9ba7-3ac74503a4df,María Fernanda Gámez Correa,pratjose-francisco@gmail.com,1234567890,+34928137763,Calle de Heraclio Moreno 88,Santa Cruz de Tenerife,65646,vet,IN417695,"Odontología, Medicina general"
+69fb426a-1748-464f-92ce-672a5e8d13df,Mirta Osuna Trillo,fidelmaza@gmail.com,1234567890,+34 737 176 926,Vial de Valero Sarmiento 99 Puerta 7 ,Castellón,63481,vet,eY147446,"Oftalmología, Medicina general"
+27562f2c-27d2-41b1-b5e3-c8457a216013,Evangelina Sureda Sarmiento,epifanioestevez@yahoo.com,1234567890,+34724 33 79 66,Vial Alondra Sanjuan 842 Apt. 14 ,La Rioja,18442,vet,ih057686,"Odontología, Traumatología"
+f20de36b-fa2d-44a7-9f04-733e96689acc,Lidia Martorell-Soria,muletfaustino@roman-cazorla.com,1234567890,+34939 997 727,Via Daniel Galán 44,Lleida,36089,vet,Xz084744,"Medicina general, Cirugía"
+35e0c43a-46f4-4676-a1c6-01960a9db6f9,Natalia Moll Girón,cpintor@gmail.com,1234567890,+34804147724,Plaza de Wálter Folch 8 Piso 1 ,Murcia,75183,vet,fS273263,Odontología
+8f1c4262-2a18-4179-8149-752c0b4e8036,Chelo Maestre Hervás,carrillopelayo@llopis-rosa.org,1234567890,+34 738049812,Alameda de Rufina Fabregat 41,Ávila,32799,vet,Kh338669,Odontología
+c7903b66-955c-4236-a48f-07cd46774d67,Juan Aramburu Vélez,victoriano32@melero.net,1234567890,+34 723 91 99 00,Pasaje Narciso Carpio 539,Alicante,02752,vet,fR624531,Medicina general
+a960a81c-ed29-420f-9909-f93c50a7d727,Nayara Garrido Zamorano,bdonoso@yahoo.com,1234567890,+34710945434,Calle Efraín Duarte 7,Albacete,06412,vet,BP645780,"Traumatología, Medicina general"
+33048a9c-7855-4604-98c7-8bda2361e737,Salvador Asenjo,tiburciobenavente@hotmail.com,1234567890,+34 731 93 22 99,Camino de Vanesa Roura 81,Toledo,14358,vet,TC128708,Cirugía
+90b483e9-3df7-480d-9023-85fc9c64d51f,Juan Manuel Santos,bautistahervas@calvo.com,1234567890,+34950 741 467,Cuesta Wilfredo Giner 63,Sevilla,51764,vet,cs601181,Cirugía
+5777acfd-1dbb-4040-a361-2b1c4bf58bc1,Adelia Piñol Alegria,afuente@yahoo.com,1234567890,+34 711 483 824,Acceso de Serafina Villalba 773,Toledo,58200,vet,Nf834044,Oftalmología
+34b15abe-a153-4630-9fca-d6b685ef37bb,Purificación Márquez Carrión,zhierro@franco.com,1234567890,+34746 807 155,Urbanización de Pío Castelló 336 Apt. 29 ,Alicante,46426,vet,vb463548,"Dermatología, Medicina general"
+9bc47cbd-828a-4948-abfd-edb7f98d9b80,Mariana Mirta Carrión Cisneros,bestevez@alberto.net,1234567890,+34 723844218,Via Ema Tena 68,Madrid,79826,vet,le626040,Oftalmología
+3fe81b93-09d8-4b31-bdaf-fa3a36437199,Rafaela Dalmau Leon,hilariosalinas@pedraza-marquez.net,1234567890,+34 925 813 234,Callejón José Ángel Calvet 94 Puerta 1 ,Vizcaya,92884,vet,Tz531240,"Traumatología, Odontología"
+bcc705ef-dc07-42d6-b0e5-918053aedddd,Adoración Luque Guerra,qdiaz@gmail.com,1234567890,+34 746 17 76 74,Ronda Omar Pons 23,Soria,96299,vet,Wl488553,"Dermatología, Medicina general"
+2290d2a8-2434-438f-b85a-c7e2241bd95a,Bienvenida Novoa-Báez,kvergara@yahoo.com,1234567890,+34 747 350 849,Callejón Horacio Cáceres 475 Apt. 56 ,Cádiz,65704,vet,nu692265,Dermatología
+45d98e67-1bac-42cc-8c90-d72b050f8b50,Norberto León Aragón,tonoroman@quintana-pombo.com,1234567890,+34731 433 529,Ronda de Federico Cuervo 39,Ceuta,49572,vet,Wd115648,Traumatología
+ac002b50-6ff4-402a-bbdf-8803c6e8e9af,Isaura del Sandoval,herminia06@esparza.es,1234567890,+34729 70 12 01,Pasaje Micaela Alberola 5 Puerta 1 ,Ourense,96544,vet,TH688791,"Cirugía, Medicina general"
+1bb2fbed-dd44-46b9-969d-55f76700fdb7,Manuela Morell Ramón,candidoalmagro@barrios.es,1234567890,+34 739959288,Ronda Osvaldo Goicoechea 130 Apt. 33 ,Albacete,94749,vet,mF212914,Traumatología
+1cc5b7ad-edd5-4460-b441-b9edf272834b,Vito del Coloma,saenzdorotea@hotmail.com,1234567890,+34723 860 473,Acceso Lina Alsina 5 Puerta 8 ,Palencia,67353,vet,AM919899,Dermatología
+fde96ed1-42fd-4425-8a2a-e458e9e1b926,Crescencia Téllez,pedro16@quintanilla-mora.org,1234567890,+34 705249238,Glorieta de Florencia Linares 85,Teruel,39459,vet,cS697345,"Oftalmología, Medicina general"
+020dc954-eafb-42fb-ae32-aff2dc3b3c73,Loreto de Carlos,cuestamarcio@perello.net,1234567890,+34700 83 53 64,Pasadizo Octavia Cánovas 54,Las Palmas,82157,vet,Bh163749,Traumatología
+6f933ca4-abab-4630-b1ee-d940edce80ef,Horacio Cañete Gargallo,marisolalamo@yahoo.com,1234567890,+34 734 188 364,Camino de Narciso Berenguer 12 Piso 2 ,Soria,92355,vet,ZT860039,Medicina general
+da20b79d-8b3f-45f9-876b-d81071848715,Berta Aranda-Carlos,gracianoosuna@yahoo.com,1234567890,+34 728 56 44 06,Pasadizo de Asdrubal Catalán 97 Puerta 5 ,Guipúzcoa,70086,vet,TH943109,Traumatología
+99ee8f36-fd31-4d4f-8179-8923b2b239b9,Flavio de Lopez,claravina@rossello-roman.es,1234567890,+34 953073498,Alameda de María Manuela Olivé 691,Teruel,89957,vet,gc031082,"Odontología, Medicina general"
+3f2c9ef1-4f5a-4d8b-8719-488cfc327090,Viviana del Vilaplana,kmiranda@gomis.com,1234567890,+34 687886762,Alameda Iker Muñoz 581,Guadalajara,67238,vet,DI104927,Odontología
