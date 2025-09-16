@@ -18,10 +18,6 @@ const getAllProfiles = async (req, res, next) => {
 const getProfileById = async (req, res, next) => {
   try {
     const { id } = req.params;
-    if (!hasRole(req.user, 'admin') && req.user._id.toString() !== id) {
-      return res.status(403).json({ message: 'No tienes permisos' });
-    }
-
     const user = await User.findById(id);
     if (!user) {
       return res.status(404).json({ message: 'Usuario no encontrado' });
