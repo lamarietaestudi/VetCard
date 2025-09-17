@@ -10,13 +10,16 @@ Incluye autenticación por roles, gestión de datos médicos, control de usuario
 # Tecnologías utilizadas
 
 Frontend
+· Url: https://vet-card.vercel.app/
 · React con Vite como bundler.
 · Material UI (MUI) para el diseño de la interfaz.
 · Formik + Yup para la gestión y validación de formularios.
 · React Router DOM para la navegación.
 · Axios para las peticiones HTTP.
 · Vercel como plataforma de despliegue.
+
 Backend
+- Url: https://vetcard-aa0c.onrender.com
 · Node.js + Express para el servidor y las rutas.
 · Mongo DB + Mongoose como base de datos y ODM.
 · Cloudinary para la gestión de imágenes.
