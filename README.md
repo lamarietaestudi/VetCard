@@ -1,3 +1,4 @@
+```bash
 # VET CARD
 
 # Descripción
@@ -34,7 +35,7 @@ Backend
 
 # Estructura del proyecto
 
-```bash
+
 VetCard/
 ├── Backend/
 │   ├── src/
@@ -152,7 +153,7 @@ VetCard/
 │   ├── vercel.json
 │   └── vite.config.js
 └── README.md
-```
+
 
 # Roles y permisos
 
@@ -184,3 +185,4 @@ Password en todos los roles: 1234567890
 # Licencia
 
 Este proyecto es una práctica personal y no representa un producto comercial. Está destinado a la demostración de habilidades técnicas y el aprendizaje.
+```
